@@ -80,7 +80,7 @@ To experience the full capabilities of the YOLOv8 Traffic Density Estimation pro
 ### 1️⃣. Initial Setup
 1. **Clone the Repository**: Start by cloning the project repository to your local system using the command below:
     ```bash
-    git clone https://github.com/FarzadNekouee/YOLOv8_Traffic_Density_Estimation.git
+    git clone https://github.com/khushbumeena-4/TrafficAI-Lane_Density_estimation.git
     ```
 2. **Navigate to the Project Directory**: After cloning, change into the project directory with:
     ```bash
